@@ -1,13 +1,10 @@
 {
- "finishedAt": "2026-10-23 23:46:07",
- "durationMinutes": 24.9,
+ "finishedAt": "2026-10-24 06:36:55",
+ "durationMinutes": 24.8,
  "subcategoriesFound": 107,
- "products": 4200,
- "onSale": 589,
- "withBarcode": 3861,
- "stillMissing": [
-  "Frozen Food > Seafood",
-  "Frozen Food > Meat"
- ],
+ "products": 4279,
+ "onSale": 0,
+ "withBarcode": 3940,
+ "stillMissing": [],
  "saved": true
 }
