@@ -1,12 +1,10 @@
 {
- "finishedAt": "2026-10-26 06:36:06",
- "durationMinutes": 46.6,
- "subcategoriesFound": 122,
- "products": 9194,
- "onSale": 320,
- "withBarcode": 8207,
- "stillMissing": [
-  "Ready To Eat > Snacks & Desserts"
- ],
+ "finishedAt": "2026-10-27 06:33:13",
+ "durationMinutes": 45.9,
+ "subcategoriesFound": 125,
+ "products": 9276,
+ "onSale": 114,
+ "withBarcode": 8219,
+ "stillMissing": [],
  "saved": true
 }
