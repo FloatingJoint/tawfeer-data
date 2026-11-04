@@ -1,16 +1,13 @@
 {
- "finishedAt": "2026-11-04 10:13:38",
- "durationMinutes": 10.1,
+ "finishedAt": "2026-11-04 15:09:22",
+ "durationMinutes": 10.2,
  "subcategoriesFound": 125,
- "products": 11452,
- "freshProducts": 11425,
- "carriedForward": 27,
- "carriedSubcategories": [
-  "Bakery > Toast (+7, had 21, got 14)",
-  "Bakery > Flatbread (+20, had 73, got 54)"
- ],
+ "products": 11470,
+ "freshProducts": 11470,
+ "carriedForward": 0,
+ "carriedSubcategories": [],
  "onSale": 0,
- "withBarcode": 11142,
+ "withBarcode": 11158,
  "stillMissing": [],
  "saved": true
 }
