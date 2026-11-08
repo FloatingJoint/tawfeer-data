@@ -1,16 +1,16 @@
 {
- "finishedAt": "2026-11-07 14:56:40",
- "durationMinutes": 9.6,
+ "finishedAt": "2026-11-08 14:57:15",
+ "durationMinutes": 9.7,
  "subcategoriesFound": 125,
- "products": 11540,
- "freshProducts": 11527,
- "carriedForward": 13,
+ "products": 11503,
+ "freshProducts": 11489,
+ "carriedForward": 14,
  "carriedSubcategories": [
   "Bakery > Toast (+5, had 19, got 14)",
-  "Bakery > Buns & Rolls (+8, had 24, got 16)"
+  "Bakery > Buns & Rolls (+9, had 24, got 15)"
  ],
  "onSale": 0,
- "withBarcode": 11230,
+ "withBarcode": 11192,
  "stillMissing": [],
  "saved": true
 }
