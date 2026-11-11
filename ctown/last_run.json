@@ -1,17 +1,16 @@
 {
- "finishedAt": "2026-11-10 15:06:13",
- "durationMinutes": 9.4,
+ "finishedAt": "2026-11-11 15:12:01",
+ "durationMinutes": 10.0,
  "subcategoriesFound": 125,
- "products": 11503,
- "freshProducts": 11404,
- "carriedForward": 99,
+ "products": 11547,
+ "freshProducts": 11510,
+ "carriedForward": 37,
  "carriedSubcategories": [
-  "Bakery > Toast (+4, had 19, got 15)",
-  "Bakery > Buns & Rolls (+7, had 24, got 17)",
-  "Beverages > Water (+88, had 126, got 39)"
+  "Bakery > Buns & Rolls (+8, had 24, got 16)",
+  "Beverages > Water (+29, had 127, got 99)"
  ],
  "onSale": 0,
- "withBarcode": 11185,
+ "withBarcode": 11229,
  "stillMissing": [],
  "saved": true
 }
