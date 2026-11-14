@@ -1,17 +1,17 @@
 {
- "finishedAt": "2026-11-14 14:57:40",
- "durationMinutes": 9.5,
+ "finishedAt": "2026-11-14 21:50:11",
+ "durationMinutes": 9.8,
  "subcategoriesFound": 125,
- "products": 11553,
- "freshProducts": 11504,
- "carriedForward": 49,
+ "products": 11523,
+ "freshProducts": 11472,
+ "carriedForward": 51,
  "carriedSubcategories": [
-  "Bakery > Buns & Rolls (+4, had 18, got 14)",
+  "Bakery > Buns & Rolls (+6, had 18, got 12)",
   "Poultry, Meat & Seafood > Chicken & Poultry (+15, had 29, got 14)",
   "Beverages > Water (+30, had 128, got 98)"
  ],
  "onSale": 0,
- "withBarcode": 11232,
+ "withBarcode": 11202,
  "stillMissing": [],
  "saved": true
 }
