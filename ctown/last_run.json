@@ -1,16 +1,16 @@
 {
- "finishedAt": "2026-11-15 14:59:40",
- "durationMinutes": 9.9,
+ "finishedAt": "2026-11-16 15:29:35",
+ "durationMinutes": 10.1,
  "subcategoriesFound": 125,
- "products": 11457,
- "freshProducts": 11437,
- "carriedForward": 20,
+ "products": 11487,
+ "freshProducts": 11481,
+ "carriedForward": 6,
  "carriedSubcategories": [
-  "Bakery > Buns & Rolls (+3, had 17, got 13)",
-  "Poultry, Meat & Seafood > Chicken & Poultry (+17, had 29, got 12)"
+  "Poultry, Meat & Seafood > Chicken & Poultry (+2, had 29, got 23)",
+  "Disposables > Gloves (+4, had 17, got 13)"
  ],
  "onSale": 0,
- "withBarcode": 11137,
+ "withBarcode": 11165,
  "stillMissing": [],
  "saved": true
 }
