@@ -1,17 +1,15 @@
 {
- "finishedAt": "2026-11-17 15:07:44",
- "durationMinutes": 9.9,
+ "finishedAt": "2026-11-18 15:16:40",
+ "durationMinutes": 10.0,
  "subcategoriesFound": 125,
- "products": 11496,
- "freshProducts": 11445,
- "carriedForward": 51,
+ "products": 11514,
+ "freshProducts": 11489,
+ "carriedForward": 25,
  "carriedSubcategories": [
-  "Fruit & Veg > Fresh Vegetables (+22, had 86, got 64)",
-  "Fruit & Veg > Herbs & Leafy Greens (+24, had 58, got 35)",
-  "Disposables > Gloves (+5, had 17, got 12)"
+  "Fruit & Veg > Herbs & Leafy Greens (+25, had 59, got 38)"
  ],
  "onSale": 0,
- "withBarcode": 11171,
+ "withBarcode": 11189,
  "stillMissing": [],
  "saved": true
 }
