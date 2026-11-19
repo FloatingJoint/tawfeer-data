@@ -1,15 +1,13 @@
 {
- "finishedAt": "2026-11-18 15:16:40",
- "durationMinutes": 10.0,
+ "finishedAt": "2026-11-19 15:16:59",
+ "durationMinutes": 10.3,
  "subcategoriesFound": 125,
- "products": 11514,
- "freshProducts": 11489,
- "carriedForward": 25,
- "carriedSubcategories": [
-  "Fruit & Veg > Herbs & Leafy Greens (+25, had 59, got 38)"
- ],
+ "products": 11649,
+ "freshProducts": 11649,
+ "carriedForward": 0,
+ "carriedSubcategories": [],
  "onSale": 0,
- "withBarcode": 11189,
+ "withBarcode": 11317,
  "stillMissing": [],
  "saved": true
 }
