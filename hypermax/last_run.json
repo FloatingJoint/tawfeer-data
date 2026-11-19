@@ -1,13 +1,19 @@
 {
- "finishedAt": "2026-11-18 22:00:09",
- "durationMinutes": 8.9,
- "subcategoriesFound": 123,
- "products": 10345,
- "freshProducts": 10345,
- "carriedForward": 0,
- "carriedSubcategories": [],
- "onSale": 5,
- "withBarcode": 9438,
+ "finishedAt": "2026-11-19 15:56:42",
+ "durationMinutes": 9.2,
+ "subcategoriesFound": 126,
+ "products": 11131,
+ "freshProducts": 11077,
+ "carriedForward": 54,
+ "carriedSubcategories": [
+  "Fruit & Veg > Dates & Dried Fruit (+13, had 24, got 15)",
+  "Cooking & Baking > Frying Oil (+16, had 51, got 35)",
+  "Beverages > Sports & Energy Drinks (+7, had 30, got 23)",
+  "Beverages > Syrups (+4, had 11, got 7)",
+  "Milk > Milk Alternatives (+14, had 24, got 19)"
+ ],
+ "onSale": 156,
+ "withBarcode": 10153,
  "stillMissing": [],
  "saved": true
 }
