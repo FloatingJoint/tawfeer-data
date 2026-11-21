@@ -1,15 +1,13 @@
 {
- "finishedAt": "2026-11-20 22:15:54",
- "durationMinutes": 9.9,
- "subcategoriesFound": 125,
- "products": 11601,
- "freshProducts": 11596,
- "carriedForward": 5,
- "carriedSubcategories": [
-  "Poultry, Meat & Seafood > Chicken & Poultry (+5, had 24, got 19)"
- ],
+ "finishedAt": "2026-11-21 21:07:55",
+ "durationMinutes": 10.5,
+ "subcategoriesFound": 124,
+ "products": 11609,
+ "freshProducts": 11609,
+ "carriedForward": 0,
+ "carriedSubcategories": [],
  "onSale": 0,
- "withBarcode": 11273,
+ "withBarcode": 11285,
  "stillMissing": [],
  "saved": true
 }
