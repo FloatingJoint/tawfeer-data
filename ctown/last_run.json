@@ -1,13 +1,13 @@
 {
- "finishedAt": "2026-11-22 21:39:54",
- "durationMinutes": 10.2,
+ "finishedAt": "2026-11-24 01:48:13",
+ "durationMinutes": 10.0,
  "subcategoriesFound": 124,
- "products": 11570,
- "freshProducts": 11570,
+ "products": 11662,
+ "freshProducts": 11662,
  "carriedForward": 0,
  "carriedSubcategories": [],
  "onSale": 0,
- "withBarcode": 11253,
+ "withBarcode": 11343,
  "stillMissing": [],
  "saved": true
 }
