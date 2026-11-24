@@ -1,13 +1,19 @@
 {
- "finishedAt": "2026-11-24 01:48:13",
- "durationMinutes": 10.0,
+ "finishedAt": "2026-11-25 00:20:52",
+ "durationMinutes": 10.4,
  "subcategoriesFound": 124,
- "products": 11662,
- "freshProducts": 11662,
- "carriedForward": 0,
- "carriedSubcategories": [],
+ "products": 11625,
+ "freshProducts": 11554,
+ "carriedForward": 71,
+ "carriedSubcategories": [
+  "Fruit & Veg > Fresh Vegetables (+24, had 84, got 61)",
+  "Fruit & Veg > Herbs & Leafy Greens (+18, had 57, got 41)",
+  "Bakery > Toast (+4, had 18, got 14)",
+  "Bakery > Flatbread (+18, had 79, got 62)",
+  "Bakery > Buns & Rolls (+7, had 19, got 12)"
+ ],
  "onSale": 0,
- "withBarcode": 11343,
+ "withBarcode": 11299,
  "stillMissing": [],
  "saved": true
 }
