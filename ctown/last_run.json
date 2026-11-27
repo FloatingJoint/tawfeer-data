@@ -1,17 +1,18 @@
 {
- "finishedAt": "2026-11-26 23:20:18",
- "durationMinutes": 10.1,
+ "finishedAt": "2026-11-27 23:06:37",
+ "durationMinutes": 9.8,
  "subcategoriesFound": 124,
- "products": 11641,
- "freshProducts": 11594,
- "carriedForward": 47,
+ "products": 11603,
+ "freshProducts": 11551,
+ "carriedForward": 52,
  "carriedSubcategories": [
-  "Fruit & Veg > Fresh Vegetables (+24, had 87, got 66)",
-  "Fruit & Veg > Herbs & Leafy Greens (+18, had 60, got 45)",
-  "Bakery > Buns & Rolls (+5, had 16, got 12)"
+  "Fruit & Veg > Fresh Vegetables (+24, had 90, got 66)",
+  "Fruit & Veg > Herbs & Leafy Greens (+18, had 63, got 45)",
+  "Bakery > Buns & Rolls (+5, had 17, got 12)",
+  "Poultry, Meat & Seafood > Chicken & Poultry (+5, had 23, got 18)"
  ],
  "onSale": 0,
- "withBarcode": 11318,
+ "withBarcode": 11283,
  "stillMissing": [],
  "saved": true
 }
